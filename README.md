@@ -48,14 +48,21 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shumpeipei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumpeipei&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shumpeipei&show_icons=true&theme=tokyonight&hide_border=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shumpeipei&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shumpeipei&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=shumpeipei&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shumpeipei&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
 
 </div>
 
