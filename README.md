@@ -1,23 +1,45 @@
 <div align="center">
 
-# Hi there, I'm shumpeipei 👋
+# shumpeipei
+
+`developer` `web` `mobile` `systems-curious`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shumpeipei&color=blueviolet&style=flat-square)](https://github.com/shumpeipei)
 
 </div>
 
+```txt
+$ whoami
+shumpeipei
+
+$ cat /etc/profile.d/interests.conf
+build web apps
+ship mobile experiences
+learn by breaking things carefully
+automate the boring parts
+```
+
 ---
 
-## About Me
+## /proc/about
 
-- 💻 Passionate software developer
-- 🌱 Always learning and exploring new technologies
-- 🚀 Love building web apps and mobile experiences
-- 💬 Feel free to reach out!
+```yaml
+role: software developer
+mode: always-learning
+current_focus:
+  - web applications
+  - mobile development
+  - backend systems
+  - developer tooling
+debug_style:
+  - read the logs
+  - isolate the state
+  - write the smallest repro
+```
 
 ---
 
-## Tech Stack
+## ~/stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +56,7 @@
 ### Backend & Mobile
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=docker&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,7 +66,7 @@
 
 ---
 
-## GitHub Stats
+## ./github-metrics
 
 <div align="center">
 
@@ -54,8 +76,7 @@
 
 ---
 
-<div align="center">
-
-*Thanks for visiting my profile!*
-
-</div>
+```txt
+$ exit
+Thanks for visiting.
+```
