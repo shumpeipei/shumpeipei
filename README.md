@@ -2,7 +2,7 @@
 
 # shumpeipei
 
-`software developer` `web apps` `backend api` `ai automation`
+`software developer` `web apps` `backend api` `ai automation` `maintainable design`
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shumpeipei&color=blueviolet&style=flat-square)](https://github.com/shumpeipei)
 
@@ -13,10 +13,10 @@ $ whoami
 shumpeipei
 
 $ cat /etc/profile.d/interests.conf
-build practical web applications
-design backend APIs and data models
-automate manual workflows with AI
-keep learning through small, working projects
+build practical web applications & edge tools
+automate business workflows with AI (LiteLLM / Python)
+design maintainable architectures & solid test suites
+organize developer workshops & share engineering practices
 ```
 
 ---
@@ -27,11 +27,14 @@ keep learning through small, working projects
 role: software developer
 mode: build-and-learn
 current_focus:
-  - Next.js / React applications
-  - TypeScript-first frontend development
-  - backend APIs with Rails and Express
-  - Python automation and AI-assisted workflows
-  - database design with PostgreSQL and SQLite
+  - Python-driven AI workflow automation & matching engines
+  - Next.js (App Router) & TypeScript frontend / edge applications
+  - backend APIs with Rails & Express / SQLite & PostgreSQL
+  - software maintainability & workshop facilitation
+engineering_values:
+  - maintainability-first: write readable, decoupled, easy-to-change code
+  - quality-driven: strict type checking, robust test coverage, automated linting
+  - practical-solutions: build working tools that solve real-world problems
 debug_style:
   - read the logs
   - isolate the state
@@ -44,64 +47,94 @@ debug_style:
 ## ~/stack
 
 ### Main Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Frontend / Web
+### Frontend & Edge
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend / Data
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Ruby_on_Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### AI / Automation
+### AI & Automation
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Testing / Quality
+### Testing & Quality
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=astral&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![RuboCop](https://img.shields.io/badge/RuboCop-000000?style=for-the-badge&logo=ruby&logoColor=white)
 
+### Dev Environment & Tools
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-## ./now-building
+## ./featured-projects
 
 ```yaml
-web:
-  - Next.js App Router applications
-  - markdown-based static blog systems
-  - React UI with Tailwind CSS
-backend:
-  - Rails API applications
-  - Express API servers
-  - Prisma-backed domain models
-automation:
-  - Python batch jobs
-  - Streamlit admin tools
-  - AI text classification and extraction with LiteLLM
-quality:
-  - Jest component/unit tests
-  - Playwright end-to-end tests
-  - linting and security checks
+skill-bridge:
+  desc: "AI-driven IT engineer & project matching support system"
+  stack: [Python 3.12, LiteLLM, Streamlit, SQLite, uv, pytest]
+  highlights:
+    - automated email ingestion via IMAP (multi-account)
+    - structured entity extraction and classification with LLMs
+    - skill-match scoring algorithm (100-point scale) & automated proposal draft generation
+    - operational on VPS with systemd, fcntl locks, and automated backup
+
+BigFivePersonalityTest:
+  desc: "Scientific Big Five (OCEAN) personality assessment platform (IPIP 44 items)"
+  stack: [Next.js 15, TypeScript, Tailwind CSS, Recharts, Cloudflare Workers]
+  status: "public"
+  live_demo: "https://big-five-personality-test.shm1.workers.dev/"
+  repo: "https://github.com/shumpeipei/BigFivePersonalityTest"
+
+my-blog:
+  desc: "Markdown/MDX static engineering blog system"
+  stack: [Next.js 15, React 19, TypeScript, Shiki, Remark/Rehype, Tailwind Typography]
+  highlights:
+    - AST transformation pipeline with GFM and custom GitHub alerts
+    - high-accuracy syntax highlighting with Shiki textmate grammars
+    - dynamic Mermaid diagram SVG rendering on client side
+```
+
+---
+
+## ./workshops-and-mentoring
+
+```yaml
+maintainability_focused_development:
+  target: "engineers transitioning from operations & maintenance to development"
+  format: "hands-on online workshop"
+  language: "Python"
+  topics:
+    - "SOLID & DRY principles in real-world code"
+    - "code smell detection and safe refactoring practices"
+    - "change impact analysis and dependency decoupling"
+    - "shifting mindset from 'just works' to 'easy-to-read, easy-to-change, easy-to-test'"
+  repo: "https://github.com/shumpeipei/202609xx_work_shop"
 ```
 
 ---
