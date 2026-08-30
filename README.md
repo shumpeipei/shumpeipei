@@ -14,9 +14,9 @@ shumpeipei
 
 $ cat /etc/profile.d/interests.conf
 build practical web applications & edge tools
-automate business workflows with AI (LiteLLM / Python)
-design maintainable architectures & solid test suites
-organize developer workshops & share engineering practices
+design backend APIs and data models
+automate manual workflows with AI & Python
+keep learning through small, working projects
 ```
 
 ---
@@ -27,10 +27,10 @@ organize developer workshops & share engineering practices
 role: software developer
 mode: build-and-learn
 current_focus:
-  - Python-driven AI workflow automation & matching engines
-  - Next.js (App Router) & TypeScript frontend / edge applications
+  - Python automation and AI-assisted workflows
+  - Next.js (App Router) & TypeScript development
   - backend APIs with Rails & Express / SQLite & PostgreSQL
-  - software maintainability & workshop facilitation
+  - software maintainability & clean code design
 engineering_values:
   - maintainability-first: write readable, decoupled, easy-to-change code
   - quality-driven: strict type checking, robust test coverage, automated linting
@@ -89,53 +89,6 @@ debug_style:
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## ./featured-projects
-
-```yaml
-skill-bridge:
-  desc: "AI-driven IT engineer & project matching support system"
-  stack: [Python 3.12, LiteLLM, Streamlit, SQLite, uv, pytest]
-  highlights:
-    - automated email ingestion via IMAP (multi-account)
-    - structured entity extraction and classification with LLMs
-    - skill-match scoring algorithm (100-point scale) & automated proposal draft generation
-    - operational on VPS with systemd, fcntl locks, and automated backup
-
-BigFivePersonalityTest:
-  desc: "Scientific Big Five (OCEAN) personality assessment platform (IPIP 44 items)"
-  stack: [Next.js 15, TypeScript, Tailwind CSS, Recharts, Cloudflare Workers]
-  status: "public"
-  live_demo: "https://big-five-personality-test.shm1.workers.dev/"
-  repo: "https://github.com/shumpeipei/BigFivePersonalityTest"
-
-my-blog:
-  desc: "Markdown/MDX static engineering blog system"
-  stack: [Next.js 15, React 19, TypeScript, Shiki, Remark/Rehype, Tailwind Typography]
-  highlights:
-    - AST transformation pipeline with GFM and custom GitHub alerts
-    - high-accuracy syntax highlighting with Shiki textmate grammars
-    - dynamic Mermaid diagram SVG rendering on client side
-```
-
----
-
-## ./workshops-and-mentoring
-
-```yaml
-maintainability_focused_development:
-  target: "engineers transitioning from operations & maintenance to development"
-  format: "hands-on online workshop"
-  language: "Python"
-  topics:
-    - "SOLID & DRY principles in real-world code"
-    - "code smell detection and safe refactoring practices"
-    - "change impact analysis and dependency decoupling"
-    - "shifting mindset from 'just works' to 'easy-to-read, easy-to-change, easy-to-test'"
-  repo: "https://github.com/shumpeipei/202609xx_work_shop"
-```
 
 ---
 
